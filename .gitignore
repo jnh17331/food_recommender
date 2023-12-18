@@ -1,0 +1,2 @@
+# Ignores large CSVs of data
+food_rec/data*.csv
